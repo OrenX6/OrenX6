@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently a final year student of Applied Math<br>💪 Strong Background In statistics, probability, Data Analysis and Programming. <br>🎯 Highly motivated with a passion for problem-solving and discovering new insights.<br> 💡 Highly Creative with strong research and analytical skills.<br>👔 I'm looking for a role where I can grow and learn from other experienced team members.<br><br>📚 Interests: Traveling, Restaurants, Video games, Drawing.
+📚 I'm currently a final year student of Applied Math<br>💪 Strong Background In statistics, probability, Data Analysis and Programming. <br>🎯 Highly motivated with a passion for problem-solving and discovering new insights.<br> 💡 Highly Creative with strong research and analytical skills.<br>👔 I'm looking for a role where I can grow and learn from other experienced team members.<br><br> 🎨  Interests: Traveling, Restaurants, Video games, Drawing.
 
 
 ## 🌐 Socials:
@@ -8,13 +8,13 @@
 # 💻 Tech Stack:
 
 # 💻 Languages:
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,matlab,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,matlab)](https://skillicons.dev)
 
 # Technologies:
 [![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,mysql,visualstudio,vscode)](https://skillicons.dev)
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-light.svg" width="50"></a>
 
-# Libraries:
+# 📚  Libraries:
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-dark.svg" width="50"></a>
