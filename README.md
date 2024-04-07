@@ -14,7 +14,11 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,matlab,sql)](https://skillicons.dev)
 
 # Technologies:
-[![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,spider,intellij,mysql,chatgpt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,mysql,chatgpt)](https://skillicons.dev)
+
+# Libraries:
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,pygame)](https://skillicons.dev)
+
 
 
 
