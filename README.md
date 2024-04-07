@@ -5,12 +5,12 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oren-bechor ) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-# 💻 Languages:
+# 🌎 Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,matlab)](https://skillicons.dev)
 
-# Technologies:
+# 🌐 Technologies:
 [![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,mysql,visualstudio,vscode)](https://skillicons.dev)
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-light.svg" width="50"></a>
 
