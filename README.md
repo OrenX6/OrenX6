@@ -15,7 +15,7 @@
 
 # Technologies:
 [![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,mysql,visualstudio,vscode)](https://skillicons.dev)
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupiter-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-light.svg" width="50"></a>
 
 # Libraries:
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="50"></a>
@@ -23,7 +23,6 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/seaborn.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupiter-light.svg" width="50"></a>
 
 
 # AI & ML & Data:
