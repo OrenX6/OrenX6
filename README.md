@@ -17,9 +17,14 @@
 [![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,mysql,visualstudio,vscode,chatgpt)](https://skillicons.dev)
 
 # Libraries:
-[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,ml,tkinter,csv,pygame,opencv,skleran)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,ml,tkinter,csv,pygame,opencv,sklearn)](https://skillicons.dev)
 
-
+# AI & ML & Data:
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Scipy](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
 
 # 📊 GitHub Stats:
