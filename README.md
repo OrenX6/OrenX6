@@ -10,8 +10,12 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 💻 Tech Stack:
+# 💻 Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,matlab,sql)](https://skillicons.dev)
+
+# Technologies:
+[![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,jupiter,MySql,ChatGPT)](https://skillicons.dev)
+
 
 
 # 📊 GitHub Stats:
