@@ -21,7 +21,7 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/seaborn.svg" width="50"></a>
-
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/sklearn.svg" width="50"></a>
 
 
 # AI & ML & Data:
