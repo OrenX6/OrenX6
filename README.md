@@ -23,6 +23,7 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/seaborn.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/opencv-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupiter-light.svg" width="50"></a>
 
 
 # AI & ML & Data:
