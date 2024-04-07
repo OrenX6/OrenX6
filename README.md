@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,mysql,chatgpt)](https://skillicons.dev)
 
 # Libraries:
-[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,pygame)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,ml,tkinter,csv,pygame)](https://skillicons.dev)
 
 
 
