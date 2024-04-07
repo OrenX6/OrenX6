@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,matlab,sql)](https://skillicons.dev)
 
 # Technologies:
-[![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,mysql,visualstudio,vscode,chatgpt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,anaconda,mysql,visualstudio,vscode,jupiter)](https://skillicons.dev)
 
 # Libraries:
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="50"></a>
