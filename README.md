@@ -23,11 +23,6 @@
 ![PyGame](https://img.shields.io/badge/PyGame-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=orenX6&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=orenX6&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=orenX6&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=orenX6&icon=6&color=4)](https://visitcount.itsvg.in)
